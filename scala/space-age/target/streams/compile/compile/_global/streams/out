@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/victor620/Exercism/scala/space-age/src/main/scala/SpaceAgeRefactor.scala:9:59: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Double(0.2408467)[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m  def onMercury(ageInSecond:Double): Double = onPlanetAge(0.2408467,ageInSecond )[0m
+[0m[[0m[31merror[0m] [0m[0m                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
